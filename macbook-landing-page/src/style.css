@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Helvetica+Now+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#root{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+h3 {
+  background: linear-gradient(90deg, #2978A0, #8B42D1, #C22F2F, #D46A2E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
+}
+
+/* button {
+  background: rgb(37, 37, 41);
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 50px; 
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 6px rgba(255, 255, 255, 0.2);
+}
+
+button:hover {
+  background: white;
+  color: black;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+}
+ */
